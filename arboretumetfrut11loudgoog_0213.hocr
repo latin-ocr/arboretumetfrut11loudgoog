@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut11loudgoog_0213.png"; bbox 0 0 888 1350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 259 160 628 212">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 259 160 628 212">
+     <span class='ocr_line' id='line_1_1' title="bbox 358 160 531 180; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 358 160 440 180; x_wconf 65' lang='lat' dir='ltr'>Cupre‘mu</span> <span class='ocrx_word' id='word_1_2' title='bbox 447 161 531 176; x_wconf 69' lang='lat' dir='ltr'>Iuniecinica.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 259 192 628 212; baseline 0.003 -6"><span class='ocrx_word' id='word_1_3' title='bbox 259 192 291 206; x_wconf 80' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_4' title='bbox 298 192 369 211; x_wconf 68' lang='lat' dir='ltr'>Pnrtugd</span> <span class='ocrx_word' id='word_1_5' title='bbox 376 192 444 211; x_wconf 60' lang='lat' dir='ltr'>Cyprus,</span> <span class='ocrx_word' id='word_1_6' title='bbox 452 197 470 206; x_wconf 79' lang='lat' dir='ltr'>or</span> <span class='ocrx_word' id='word_1_7' title='bbox 477 192 501 207; x_wconf 80' lang='grc' dir='ltr'>ιΙιε</span> <span class='ocrx_word' id='word_1_8' title='bbox 510 192 559 207; x_wconf 77' lang='lat' dir='ltr'><em>Cedar</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 565 192 585 212; x_wconf 84' lang='lat' dir='ltr'>os</span> <span class='ocrx_word' id='word_1_10' title='bbox 591 192 628 207; x_wconf 71' lang='lat' dir='ltr'>Gon.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 362 713 490 726">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 362 713 490 726">
+     <span class='ocr_line' id='line_1_3' title="bbox 362 713 490 726; baseline 0 -3"><span class='ocrx_word' id='word_1_11' title='bbox 362 713 454 726; x_wconf 53' lang='lat' dir='ltr'>numanum.</span> <span class='ocrx_word' id='word_1_12' title='bbox 459 713 490 723; x_wconf 67' lang='grc' dir='ltr'>αι...</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

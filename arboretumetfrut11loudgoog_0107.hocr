@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut11loudgoog_0107.png"; bbox 0 0 888 1350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 721 129 750 144">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 721 129 750 144">
+     <span class='ocr_line' id='line_1_1' title="bbox 721 129 750 144; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 721 129 750 144; x_wconf 71' lang='lat'>353</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 337 172 589 223">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 337 172 589 223">
+     <span class='ocr_line' id='line_1_2' title="bbox 355 172 570 192; baseline 0 -6"><span class='ocrx_word' id='word_1_2' title='bbox 355 172 464 191; x_wconf 63' lang='lat' dir='ltr'>mqummhar</span> <span class='ocrx_word' id='word_1_3' title='bbox 472 172 570 192; x_wconf 63' lang='lat' dir='ltr'>seyrmflm.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 337 203 589 223; baseline 0.004 -5"><span class='ocrx_word' id='word_1_4' title='bbox 337 204 370 218; x_wconf 65' lang='lat' dir='ltr'>’nm</span> <span class='ocrx_word' id='word_1_5' title='bbox 377 203 426 219; x_wconf 57' lang='lat' dir='ltr'>snm</span> <span class='ocrx_word' id='word_1_6' title='bbox 433 203 473 219; x_wconf 82' lang='lat' dir='ltr'>Gum</span> <span class='ocrx_word' id='word_1_7' title='bbox 481 204 589 223; x_wconf 61' lang='lat' dir='ltr'>Liquidum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 386 685 511 698">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 386 685 511 698">
+     <span class='ocr_line' id='line_1_4' title="bbox 386 685 511 698; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 386 686 395 696; x_wconf 89' lang='grc' dir='ltr'>ιι</span> <span class='ocrx_word' id='word_1_9' title='bbox 401 685 511 698; x_wconf 52' lang='lat' dir='ltr'>mmmmm-n.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

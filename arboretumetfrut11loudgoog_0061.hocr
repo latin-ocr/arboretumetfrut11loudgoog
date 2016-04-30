@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut11loudgoog_0061.png"; bbox 0 0 888 1350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 237 70 730 91">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 237 70 730 91">
+     <span class='ocr_line' id='line_1_1' title="bbox 237 70 730 91; baseline -0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 237 71 287 90; x_wconf 62' lang='lat' dir='ltr'><em>1¹*qu</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 293 71 370 91; x_wconf 62' lang='lat' dir='ltr'><em>:ql-saaca.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 392 71 424 86; x_wconf 79' lang='lat' dir='ltr'><em>The</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 431 71 477 88; x_wconf 75' lang='lat' dir='ltr'>wood,</span> <span class='ocrx_word' id='word_1_5' title='bbox 485 76 503 86; x_wconf 79' lang='lat' dir='ltr'><em>or</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 509 76 579 88; x_wconf 72' lang='lat' dir='ltr'><em>common,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 587 70 642 85; x_wconf 74' lang='lat' dir='ltr'>Beeeh.</span> <span class='ocrx_word' id='word_1_8' title='bbox 700 70 730 84; x_wconf 69' lang='lat'><em>³34</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
